@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(240, 120, 73);
+    text-align: center;
+
+}
+h1{
+    background-color: rgb(12, 12, 186);
+    border-radius: 30px;
+    color: aliceblue;
+}
+img{
+    width: 100px;
+    border-radius: 50%;
+}
