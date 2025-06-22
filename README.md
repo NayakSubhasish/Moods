@@ -1,2 +1,2 @@
 # Moods
-Change Moods on clicl
+Change Moods on click
